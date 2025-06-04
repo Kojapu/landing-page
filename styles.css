@@ -18,7 +18,6 @@ body {
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-
 }
 
 .header-links {
@@ -36,6 +35,7 @@ body {
     font-size: 24px;
     color: #F9FAF8;
     font-weight: 600;
+    padding-bottom: 5px;
 }
 
 .head-bottom {
@@ -47,6 +47,7 @@ body {
 .head-bottom-container {
     display: flex;
     flex-direction: column;
+    padding-right: 50px;
 }
 
 .head-bottom-container h1 {
@@ -73,7 +74,7 @@ body {
 }
 
 .header-image {
-    padding-left: 50px;
+    padding-top: 20px;
     width: 500px;
     height: 200px;
 }
