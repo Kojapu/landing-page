@@ -73,9 +73,9 @@ body {
 }
 
 .header-image {
+    padding-left: 50px;
     width: 500px;
     height: 200px;
-    padding-left: 50px;
 }
 
 .information {
